@@ -1,7 +1,7 @@
-public class program {
+public class prograim {
     public static void main(String[] args) {
         // Predefined string to check
-        String input = "A man, a plan, a canal, Panama";
+        String input = "level";
        
         // Normalize the input string by removing spaces and converting to lowercase
         String normalizedString = input.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
